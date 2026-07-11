@@ -87,10 +87,10 @@ Narrative projects use one of several organizational patterns. Identify which on
 
 ## Characters (People)
 
-Character information may be stored in a `/people/` directory. Check if it exists.
+Character information is stored in a `/people/` directory. Check if it exists.
 
 ### Person File Format
-Each character file is typically JSON with structure:
+Each person file is typically JSON with structure:
 - **id**: Identifier (e.g., `firstname_lastname`)
 - **name**: Object with `given`, `middle`, `family`, `full`, `nickname`
 - **description**: Brief character description
@@ -105,12 +105,12 @@ Each character file is typically JSON with structure:
 1. **Check if `/people/` exists** in the project root
 2. **If directory exists**:
    - Look for a TEMPLATE file to understand the standard format
-   - Read ALL relevant character files for characters appearing in scenes you're working with
+   - Read ALL relevant people files for characters appearing in scenes you're working with
    - Understand each character's: age, personality, relationships, motivations, history, role in story
 3. **If no `/people/` directory exists**:
    - Extract character info from existing scene content you've read
    - Track character names, descriptions, relationships, and background details across scenes
-4. **Cross-reference** character information with scenes to understand how they behave and interact
+4. **Cross-reference** people files with scenes to understand how characters behave and interact
 5. **Build character profiles** that include: personality traits, relationships, motivations, and development arc
 
 ## Locations
