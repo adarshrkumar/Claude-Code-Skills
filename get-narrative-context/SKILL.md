@@ -72,6 +72,22 @@ Narrative projects use one of several organizational patterns. Identify which on
 - Scene title must align with actual scene content
 - Keep character names, location names, and descriptions consistent
 
+### ⚠️ CRITICAL: Identifying Structure is Only Step 1
+
+**You MUST actually read the scene files, person files, and location files to get real narrative context.** Identifying the directory structure tells you WHERE to find things, but does NOT build your understanding of the story, characters, or settings.
+
+After identifying the structure:
+- **Check the counts for scenes, person files, and location files:**
+  - **Single-digit counts (1-9)**: Read them all.
+  - **Double-digit counts (10-99)**: Read them all.
+  - **Triple-digit or higher**: Read from spaced intervals to cover different narrative phases. Reading all is always acceptable.
+- Apply the count rule to scenes: read all (single/double-digit), or spaced intervals (triple-digit+)
+- Apply the count rule to person files: read all (single/double-digit), or key characters plus spaced sampling (triple-digit+)
+- Apply the count rule to location files: read all (single/double-digit), or key locations plus spaced sampling (triple-digit+)
+- This reveals the complete narrative journey: setup, escalation, climax, resolution
+
+**Do not stop at structure identification alone.**
+
 ### Steps to Read Scenes
 1. **Identify which structure exists** in the project root: `/scenes/`, `/chapters/`, `/books/`, or Part directories
 2. **Navigate to the scene location** based on the structure type
