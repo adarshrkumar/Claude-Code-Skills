@@ -29,6 +29,11 @@ when_to_use: |
 
 **Flexible Nesting**: Any organizational level can internally contain any level below it. For example, a Part can contain Chapters, Scenes directly, or Books. Books, Parts, and Chapters can all contain any lower level.
 
+**Filesystem View Note**: When viewing directory contents, all folders appear first, followed by all files. This affects how you interpret listing output and chronological ordering:
+- Numbered chapter folders (e.g., 18, 19, 20... 27) appear first in the listing
+- Lettered/named scene files at the root level (e.g., A, B, C, D, E) appear after all folders
+- **Chronologically**, root-level temp scenes come AFTER the last scene of the last numbered chapter, not before. For example, if the last chapter is 27 with scenes 27a-27e, then temp scene A follows 27e in the timeline (may or may not be directly continuous).
+
 Narrative projects use one of several organizational patterns. Identify which one applies:
 
 ### 1. Flat Scene Structure
