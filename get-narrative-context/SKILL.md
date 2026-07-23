@@ -81,15 +81,22 @@ Narrative projects use one of several organizational patterns. Identify which on
 
 **You MUST actually read the scene files, person files, and location files to get real narrative context.** Identifying the directory structure tells you WHERE to find things, but does NOT build your understanding of the story, characters, or settings.
 
-After identifying the structure:
-- **Check the counts for scenes, person files, and location files:**
-  - **Single-digit counts (1-9)**: Read them all.
-  - **Double-digit counts (10-99)**: Read them all.
-  - **Triple-digit or higher**: Read from spaced intervals to cover different narrative phases. Reading all is always acceptable.
-- Apply the count rule to scenes: read all (single/double-digit), or spaced intervals (triple-digit+)
-- Apply the count rule to person files: read all (single/double-digit), or key characters plus spaced sampling (triple-digit+)
-- Apply the count rule to location files: read all (single/double-digit), or key locations plus spaced sampling (triple-digit+)
-- This reveals the complete narrative journey: setup, escalation, climax, resolution
+After identifying the structure, apply this **scene reading algorithm**:
+
+**For Scenes:**
+- If total scene count is 1-99: Read all
+- Else if total chapter count is 1-99: 
+  - Read 1 scene per chapter (if chapter has ≤3 scenes)
+  - Read 2 scenes per chapter (if chapter has >3 scenes)
+- Else: Read every `$scenes_in_part / 25` scenes for each part (calculate the interval per part)
+  - Note: If no `/parts/` directory exists, treat the main `/chapters/` or `/scenes/` directory as a single implicit part for this calculation
+
+**For People & Locations:**
+- **Single-digit counts (1-9)**: Read them all.
+- **Double-digit counts (10-99)**: Read them all.
+- **Triple-digit or higher**: Read key items plus spaced sampling to cover diversity.
+
+This reveals the complete narrative journey: setup, escalation, climax, resolution
 
 **Do not stop at structure identification alone.**
 
