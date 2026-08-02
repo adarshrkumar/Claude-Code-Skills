@@ -51,6 +51,7 @@ Narrative projects use one of several organizational patterns. Identify which on
 - **Temporary scenes at root level**: Use `$ul. $title.md` 
   - **Format**: `A. Setup Scene.md` → `# Scene $ul: $title` (e.g., `# Scene A: Setup Scene`)
   - Stored at `/chapters/` root level, not in chapter folders
+  - **Note**: Temp scenes are ungrouped—we haven't decided which ones go into which chapters yet. They stay here until chapter structure is finalized.
 
 ### 3. Part-Based Structure
 
@@ -59,6 +60,9 @@ Narrative projects use one of several organizational patterns. Identify which on
   - Scenes use: `$ll. $title.md` → `# Scene $i$ll: $title`
 - **When containing scenes directly**: Scenes use numbered format at part root level
   - Scenes use: `$i. $title.md` → `# Scene $i: $title` (follows Flat Scene Structure format)
+- **Temporary scenes at part root level**: Use uppercase letters (A, B, C, etc.)
+  - Format: `A. Scene Title.md` → `# Scene $p.A: Scene Title`
+  - **Note**: Temp scenes are ungrouped—we haven't decided which ones go into which chapters yet. They stay here until chapter structure is finalized.
 
 ### 4. Book-Based Structure
 
