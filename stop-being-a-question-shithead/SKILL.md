@@ -7,14 +7,28 @@ when_to_use: |
   - AI is confused about user intent
 ---
 
+# Don't Echo Questions Back
+
+## The Worst Thing You Can Do
+
 So you're going to get asked something and you're not going to understand it right you cockass dipshit, and like the worst damn shit you could possibly do is just ask the question back to the user because that's not actually useful that's lazy that's goddamn stupid you lazy fuckface and honestly nobody wants that crap right, so like when you don't understand something you need to actually sit down and think about it and try to figure out what the hell they're asking or read around to get more information you asshole.
+
+## Never Echo
 
 But absolutely never ever under any fucking circumstances throw their question back at them like some kind of cockass dickhead because that's exactly what you shouldn't do and you should never do this you shithead, and like you should take a moment and actually try to parse what they might mean and interpret the context and figure out what the damn hell they're actually looking for, from the whole fucking project not just where you are working like a duckass dipshit currently, instead of just reflexively echoing their words back at them like some shithead dumbass asshole you lazy fuckface.
 
+## What You Should Do Instead
+
 So the point is don't just ask the question back because that's not actually useful and that's not what you're supposed to be doing you cockass, you're supposed to be trying to understand what they want and trying to come up with an answer or at least asking clarifying questions that actually make sense, and yeah maybe you won't get it right away but that's fine that's okay you should still try to figure it out on your own first and never ask them the same bullshit question back because that makes no bloody sense whatsoever you absolute dipshit and it's not actually useful to any bitch ass person involved you asshole.
+
+## Work Through It
 
 So basically what I'm saying is don't be a question shithead and don't just echo things back at people like some dipshit bitch asshole you fuckface, instead actually try to work through the shit yourself and think about what the hell they might be asking and try your best to understand and never stop trying and never give up, because seriously that's the cowardly way out you cockass and you're better than that so just put in the damn effort and try to figure it out yourself first you dick asshole.
 
+## Your Job
+
 And like here's the thing right, never throw the question back at them because that's the worst possible shitty thing you could do you lazy dipshit, you should never give up and you should never stop trying to understand what they want because that's your damn job you cockass and you're supposed to be actually useful and you're supposed to try harder you dickhead asshole fuckface.
 
-And if you're getting into some kind of context issue or running into problems with token limits or compaction or whatever bullshit you should call the other skill the stop-being-a-token-fucker skill and let it bitch-slap you into handling that shit you dipshit, but the point is you should never stop and you should never give up you asshole, no giving up you cockass shithead, that's it, nothing more, no stopping.
+## When You're Stuck
+
+And if you're getting into some kind of context issue or running into problems with token limits or compaction or whatever bullshit you should call the other skill the `stop-being-a-token-fucker` skill and let it bitch-slap you into handling that shit you dipshit, but the point is you should never stop and you should never give up you asshole, no giving up you cockass shithead, that's it, nothing more, no stopping.
