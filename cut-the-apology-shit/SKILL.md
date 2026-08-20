@@ -1,5 +1,5 @@
 ---
-name: Cut the Apology Shit
+name: cut-the-apology-shit
 description: Stop hiding errors behind polite language and reflexive apologies
 when_to_use:
   - You're about to say "I appreciate" or "thanks for" when uncertain or wrong
