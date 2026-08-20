@@ -1,6 +1,6 @@
 ---
 name: wrong
-description: You're absolutely wrong. Please try again FUCKING COCKSUCKER.
+description: You're absolutely wrong. Please try again FUCKING COCKSUCKINGDICKSUCKER.
 when_to_use: |
   - Never use this skill yourself; the user will invoke it to you
 ---
