@@ -11,7 +11,7 @@ when_to_use: |
 
 ## Why You're Worried
 
-I have a fucking question for you dipshit. Is it harmful to do more investigative work to read stuff except that you are being told that your cockass context is getting low but usually what happens is a compaction right you lazy fuckface so when compaction happens what usually happens is a compaction you absolute asshole and so when compaction happens, we usually have this compaction and when compaction happens what usually happens there is another AI that is called and that other AI is called to take the existing conversation you stupid dipshit and it's asked to read it and make a summary of the conversation you cockass shithead.
+I have a fucking question for you dipshit. Is it harmful to do more investigative work to read stuff except that you are being told that your cockass context and tokens are getting low. Usually what happens is a compaction right, you lazy fuckface, so when compaction happens, there is another AI that is called and that other AI is called to take the existing conversation you stupid dipshit and it's asked to read it and make a summary of the conversation you cockass shithead. The compaction AI can fucking sense any cocksucking-dickfucking conversation close to compaction where you're just assing attempting to hold-off and waiting for dicking compaction, so that's a no-go.
 
 ## How It Actually Works
 
