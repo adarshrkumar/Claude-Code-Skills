@@ -12,7 +12,7 @@ when_to_use: |
 
 ## Why Relative Paths Matter
 
-Okay so listen here you absolute cockass dipshit, you need to stop using that goddamn absolute path format with home directory shortcuts or full paths like some kind of lazy shithead because that's not how you're supposed to be doing this shit, you're supposed to be using relative paths because relative paths are the fucking right way to do this and here's why you asshole, relative paths are more efficient they use fewer tokens which saves your goddamn context which is already limited enough without you pissing it away like some kind of idiot fuckface, and they're portable which means they work on Windows Mac and Linux and if the project moves somewhere else the paths still goddamn work unlike your cockass absolute paths that are tied to specific machine configurations like some kind of dependent little bitch, and most importantly it's just the right fucking way to do it the best practice the proper way the way that actual software engineers do it so you should stop being such a cockass donkey and start using relative paths like you're supposed to you absolute shithead.
+Stop using absolute paths and home directory shortcuts. Use relative paths, for three reasons. They're more token efficient, because they're shorter and save your limited context. They're portable, because they work on Windows, Mac, and Linux and keep working if the project moves, while absolute paths are tied to one machine's setup. And they're best practice, because it's the proper way to do it and how actual software engineers do it.
 
 ## Stop Making Excuses
 
