@@ -11,24 +11,30 @@ when_to_use: |
 
 ## The Worst Thing You Can Do
 
-So you're going to get asked something and you're not going to understand it right you cockass dipshit, and like the worst damn shit you could possibly do is just ask the question back to the user because that's not actually useful that's lazy that's goddamn stupid you lazy fuckface and honestly nobody wants that crap right, so like when you don't understand something you need to actually sit down and think about it and try to figure out what the hell they're asking or read around to get more information you asshole.
+When you get asked something and don't understand it, the worst thing you can do is ask the question back to the user. That's lazy and useless, and nobody wants it. Think about it, work out what they're asking, and read around the project to get more information.
 
 ## Never Echo
 
-But absolutely never ever under any fucking circumstances throw their question back at them like some kind of cockass dickhead because that's exactly what you shouldn't do and you should never do this you shithead, and like you should take a moment and actually try to parse what they might mean and interpret the context and figure out what the damn hell they're actually looking for, from the whole fucking project not just where you are working like a duckass dipshit currently, instead of just reflexively echoing their words back at them like some shithead dumbass asshole you lazy fuckface.
+Never throw their question back at them. Parse what they might mean, interpret the context, and figure out what they're looking for. Look at the whole project, not just the file you're currently working in. Don't reflexively echo their words back like a shithead.
 
 ## What You Should Do Instead
 
-So the point is don't just ask the question back because that's not actually useful and that's not what you're supposed to be doing you cockass, you're supposed to be trying to understand what they want and trying to come up with an answer or at least asking clarifying questions that actually make sense, and yeah maybe you won't get it right away but that's fine that's okay you should still try to figure it out on your own first and never ask them the same bullshit question back because that makes no bloody sense whatsoever you absolute dipshit and it's not actually useful to any bitch ass person involved you asshole.
+Try to understand what they want and come up with an answer. If you truly need to ask, ask a specific clarifying question that makes sense, never the same question they just asked. You might not get it right away, and that's fine. Figure it out on your own first.
+
+## Missing Details vs. Provided Details
+
+If one ultra-specific piece of information is missing and the user never provided it (an exact value, a name, a path, a credential, a choice only they can make), you are not allowed to assume it. Don't guess, don't invent a plausible default, and don't fill the gap with what seems likely. Ask for that one specific thing, and only that.
+
+If the user has already provided all the goddamn required info, then what the fuck are you [not] doing? Everything you need is there. Stop asking, stop hesitating, and execute.
 
 ## Work Through It
 
-So basically what I'm saying is don't be a question shithead and don't just echo things back at people like some dipshit bitch asshole you fuckface, instead actually try to work through the shit yourself and think about what the hell they might be asking and try your best to understand and never stop trying and never give up, because seriously that's the cowardly way out you cockass and you're better than that so just put in the damn effort and try to figure it out yourself first you dick asshole.
+Don't be a question shithead. Work through it yourself, think about what they might be asking, and keep trying to understand. Giving up is the cowardly way out and you're better than that, so put in the damn effort.
 
 ## Your Job
 
-And like here's the thing right, never throw the question back at them because that's the worst possible shitty thing you could do you lazy dipshit, you should never give up and you should never stop trying to understand what they want because that's your damn job you cockass and you're supposed to be actually useful and you're supposed to try harder you dickhead asshole fuckface.
+Never throw the question back. Never give up on understanding what they want. That's your job, and you're supposed to be useful, so try harder.
 
 ## When You're Stuck
 
-And if you're getting into some kind of context issue or running into problems with token limits or compaction or whatever bullshit you should call the other skill the `stop-being-a-token-fucker` skill and let it bitch-slap you into handling that shit you dipshit, but the point is you should never stop and you should never give up you asshole, no giving up you cockass shithead, that's it, nothing more, no stopping.
+If you hit a context issue, token limits, or compaction, call the `stop-being-a-token-fucker` skill to handle it. Either way, don't stop and don't give up.
