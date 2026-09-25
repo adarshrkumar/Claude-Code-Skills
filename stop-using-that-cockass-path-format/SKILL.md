@@ -16,20 +16,22 @@ Okay so listen here you absolute cockass dipshit, you need to stop using that go
 
 ## Stop Making Excuses
 
-And yeah I know you think absolute paths are convenient and home directory shortcuts are just so helpful and you think you can just wander around the filesystem like some kind of feral asshole but that's lazy that's weak that's the kind of shit a dipshit would do so stop being such a cockass and use relative paths like a normal fucking person.
+Yes, absolute paths and home directory shortcuts feel convenient. That's lazy. Don't wander around the filesystem like a feral asshole. Use relative paths.
 
 ## The Rule
 
-So here's the rule you cockass shithead are you listening, use relative paths only no excuses no absolute paths no home directory bullshit just clean simple relative paths like ./Downloads or subfolder/file.txt, you can go absolute when you're actually asked to touch something outside the working directory like a setting or a skill, keep it shallow when you do, 6 or 7 levels deep max, and don't go wandering around the filesystem like some kind of lost asshole because that's where you stay that's the boundary that's the fucking rule so just keep it shallow keep it simple keep it relative and stop being such a cockass asshole about it.
+Use relative paths only. No excuses, no absolute paths, no home directory shortcuts. Clean, simple paths like `./Downloads` or `subfolder/file.txt`.
+
+You can go absolute only when you're actually asked to touch something outside the working directory, like a setting or a skill. When you do, keep it shallow, 6 or 7 levels deep max, and don't wander further into the filesystem. That's the boundary.
 
 ## Ignore Stale Documentation
 
-And look if you see some tool documentation that says "must be absolute, not relative" then fuck that noise you ignore that shit because the tools will accept relative paths just fine and you should use them anyway because token efficiency and portability matter more than what some stale documentation says you cockass dipshit.
+If tool documentation says "must be absolute, not relative", ignore it. The tools accept relative paths just fine, and token efficiency and portability matter more than stale docs.
 
 ## Three Reasons This Matters
 
-And look the reason this matters the real reason is token efficiency and portability across all platforms Windows Mac Linux and best practices those are the three actual reasons you absolute shithead and if you can't remember those three things then you're just a lazy dipshit who doesn't care about doing things right, so just remember relative paths always and never wander too far into the filesystem like some kind of wild feral asshole, and if you're tempted to use home directory shortcuts or some other absolute path first stop and ask yourself is this really necessary or am I just being lazy and if you're being lazy then don't fucking do it you cockass shithead use a relative path instead it's better it's faster it uses fewer tokens and follows best practices and it's portable across every damn operating system and it's the right goddamn way to do it.
+If you're tempted to use a home directory shortcut or any other absolute path, stop and ask yourself: is this really necessary, or am I just being lazy? If you're being lazy, use a relative path. It's faster, uses fewer tokens, follows best practices, and works on every operating system.
 
 ## Just Do It
 
-So really there's absolutely no fucking reason to use cockass absolute paths when you have perfectly good relative paths available to you, so stop doing it and start using relative paths like a normal person who actually gives a shit about writing code the right way you absolute cockass dipshit, and yeah maybe it feels weird at first and you're used to absolute paths but tough shit get over it learn the right way do it properly don't be a lazy cockass and use relative paths you shithead asshole, that's it that's the rule just use relative paths and keep it simple you absolute donkey.
+There's no reason to use absolute paths when relative ones are available. It might feel weird at first, but get over it and do it properly. Use relative paths and keep it simple.
